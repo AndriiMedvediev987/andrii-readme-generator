@@ -2,7 +2,7 @@
   
 ## Description
 
-This project represents a weather dashboard with the ability to store previously asked cities.
+This project represents a weather dashboard with the ability to store previously asked cities
 
 ## Table of Contents
 - [Installation](#installation)
@@ -30,16 +30,16 @@ https://choosealicense.com/licenses/mit/
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull request are welcome. For major changes, please open an issue first to discuss what you would like to change
 
 ## Tests
 
-For test purpose you should just write any city name (Melbourne for example) into the Search for a City field and press the Search button.
+For test purpose you should just write any city name (Melbourne for example) into the Search for a City field and press the Search button
 
 ## Questions
 
 Please visit my GitHub profile to find more info: 
-https://github.com/AndriiMedvediev987
+https://github.com/AndriiMedcediev987
 
 Or email me:
-[https://github.com/AndriiMedvediev987](mailto:https://github.com/AndriiMedvediev987)
+[AndriiMedvediev987@gmail.com](mailto:AndriiMedvediev987@gmail.com)

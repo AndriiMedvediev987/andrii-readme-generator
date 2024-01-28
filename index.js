@@ -71,9 +71,6 @@ function init() {
     prompt(questions)
         .then((response) => {
             let markdown = md.generateMarkdown(response);
-            // let code_of_conduct = md.generateCodeofConduct(response);
-            // console.log(markdown);
-            // writeToFile('code_of_conduct.md', code_of_conduct);
             writeToFile('README.md', markdown);
         }
         );
