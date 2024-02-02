@@ -43,3 +43,6 @@ https://github.com/AndriiMedcediev987
 
 Or email me:
 [AndriiMedvediev987@gmail.com](mailto:AndriiMedvediev987@gmail.com)
+
+## Useful links
+[Video here](https://github.com/AndriiMedvediev987/andrii-readme-generator/assets/144401796/230651ac-f0d4-4d9f-ab38-8f442073f0c3)
